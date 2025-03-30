@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "create-better-t3-angular-stack",
   "private": true,
   "scripts": {
     "build": "turbo run build",
